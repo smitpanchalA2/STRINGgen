@@ -1,6 +1,6 @@
 # RikudoPyroStr
 
-[![deploy](https://telegra.ph/file/4f3dee3a87e98d9b6a901.jpg)](https://heroku.com/deploy?template=https://github.com/AvikaTrivedi/RikudoPyroStr)
+[![deploy](https://telegra.ph/file/4f3dee3a87e98d9b6a901.jpg)](https://heroku.com/deploy?template=https://github.com/smitpanchalA2/STRINGgen)
 
 👆👆
 YOU Can click on above Image to deploy 
@@ -24,11 +24,11 @@ Generate Pyrogram String Session Using this bot.
   - Telegram Bot Token from [here](https://t.me/BotFather).
 
 ## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AvikaTrivedi/RikudoPyroStr)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/smitpanchalA2/STRINGgen)
 
 
 #### Developers
-- [Avika](https://t.me/avika_5555)
-- [satyanand](https://t.me/satyanandatripathi)
+- [Mr Dexterr](https://t.me/mr_dexterr)
+
 
 Love u guys😉💗
