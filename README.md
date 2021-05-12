@@ -1,6 +1,6 @@
 # STRINGgen (@MR_DEXTERR)
 
-[![deploy](https://telegra.ph/file/4f3dee3a87e98d9b6a901.jpg)](https://heroku.com/deploy?template=https://github.com/smitpanchalA2/STRINGgen)
+[![deploy](http://telegramfiles.com/v2/8893069/IMG_20210505_215211_382.jpg.html)](https://heroku.com/deploy?template=https://github.com/smitpanchalA2/STRINGgen)
 
 👆👆
 YOU Can click on above Image to deploy 
